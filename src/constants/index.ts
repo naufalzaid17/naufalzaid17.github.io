@@ -54,7 +54,7 @@ export const SOCIAL_LINKS: SocialLink[] = [
 ];
 
 export const PERSONAL_INFO = {
-  name: 'Naufal Zaid',
+  name: 'Muhammad Naufal Zaidan',
   title: 'Full Stack Developer | Software Engineer',
   description: 'Building scalable web applications and digital solutions with modern technologies',
   about: {
@@ -62,5 +62,5 @@ export const PERSONAL_INFO = {
     additional: "When I'm not coding, you can find me exploring new technologies, contributing to open-source projects, or sharing knowledge with the developer community.",
   },
   email: 'naufalzaid17@gmail.com',
-  profileImage: 'https://media.licdn.com/dms/image/D5603AQF9X3XWJz4gWw/profile-displayphoto-shrink_400_400/0/1679846248497?e=1725494400&v=beta&t=example',
+  profileImage: '/Profiles.jpg',
 };

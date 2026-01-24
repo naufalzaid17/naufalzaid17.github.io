@@ -12,15 +12,15 @@ export const Hero = () => {
               <Image
                 src={PERSONAL_INFO.profileImage}
                 alt={`${PERSONAL_INFO.name} profile`}
-                width={160}
-                height={160}
-                className="mx-auto rounded-full border-4 border-white shadow-xl"
+                width={250}
+                height={250}
+                className="mx-auto rounded-full border-2 border-white shadow-xl"
               />
               <div className="absolute inset-0 rounded-full bg-gradient-to-t from-black/20 to-transparent"></div>
             </div>
           </div>
 
-          <h1 className="text-5xl md:text-7xl font-bold text-gray-900 mb-2">
+          <h1 className="text-3xl md:text-5xl font-bold text-gray-900 mb-2">
             {PERSONAL_INFO.name}
           </h1>
 
